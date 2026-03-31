@@ -1,5 +1,5 @@
-@import "tailwindcss";
-
+@import "tailwindcss"; 
+/* it uses tailwid after config */
 :root {
   --background: #ffffff;
   --foreground: #171717;
